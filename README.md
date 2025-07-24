@@ -2,7 +2,7 @@
 
 A modern React application for downloading YouTube videos in various formats and qualities with a sleek, glass-morphism UI design.
 
-![TubeGrab Pro](https://via.placeholder.com/1200x630?text=TubeGrab+Pro)
+![TubeGrab Pro](https://github.com/AmarCodeCraft/TubeGrab-Pro/blob/main/public/TubeGrabPro.png?raw=true)
 
 ## Features
 
