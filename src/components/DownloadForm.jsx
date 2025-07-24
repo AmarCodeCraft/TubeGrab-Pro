@@ -19,7 +19,7 @@ function DownloadForm({ setVideoInfo, setLoading, setError }) {
 
     try {
       const response = await axios.post(
-        "http://localhost:5000/api/video-info",
+        "https://tubegrabpro.onrender.com/api/video-info",
         { url }
       );
       setVideoInfo(response.data);

@@ -23,7 +23,7 @@ function VideoInfo({ videoInfo }) {
       }, 100);
 
       const response = await axios({
-        url: `http://localhost:5000/api/download?url=${encodeURIComponent(
+        url: `https://tubegrabpro.onrender.com/api/download?url=${encodeURIComponent(
           videoInfo.url
         )}&format=${format}`,
         method: "GET",
